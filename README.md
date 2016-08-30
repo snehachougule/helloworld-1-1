@@ -2,3 +2,4 @@
 simple program
  hand
  
+on any pc
